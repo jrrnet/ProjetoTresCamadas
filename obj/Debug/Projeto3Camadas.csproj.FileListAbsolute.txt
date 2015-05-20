@@ -1,0 +1,9 @@
+C:\Users\Jrnet\Desktop\Documentos\PROJETOS\Projeto3Camadas\Projeto3Camadas\bin\Debug\Projeto3Camadas.exe.config
+C:\Users\Jrnet\Desktop\Documentos\PROJETOS\Projeto3Camadas\Projeto3Camadas\bin\Debug\Projeto3Camadas.exe
+C:\Users\Jrnet\Desktop\Documentos\PROJETOS\Projeto3Camadas\Projeto3Camadas\bin\Debug\Projeto3Camadas.pdb
+C:\Users\Jrnet\Desktop\Documentos\PROJETOS\Projeto3Camadas\Projeto3Camadas\obj\Debug\Projeto3Camadas.frmCadastroCliente.resources
+C:\Users\Jrnet\Desktop\Documentos\PROJETOS\Projeto3Camadas\Projeto3Camadas\obj\Debug\Projeto3Camadas.Properties.Resources.resources
+C:\Users\Jrnet\Desktop\Documentos\PROJETOS\Projeto3Camadas\Projeto3Camadas\obj\Debug\Projeto3Camadas.csproj.GenerateResource.Cache
+C:\Users\Jrnet\Desktop\Documentos\PROJETOS\Projeto3Camadas\Projeto3Camadas\obj\Debug\Projeto3Camadas.exe
+C:\Users\Jrnet\Desktop\Documentos\PROJETOS\Projeto3Camadas\Projeto3Camadas\obj\Debug\Projeto3Camadas.pdb
+C:\Users\Jrnet\Desktop\Documentos\PROJETOS\Projeto3Camadas\Projeto3Camadas\obj\Debug\Projeto3Camadas.csprojResolveAssemblyReference.cache
