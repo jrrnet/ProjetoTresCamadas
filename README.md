@@ -1,4 +1,4 @@
-[![JRWIKI](http://jrwiki.info/wp-content/uploads/2015/04/logo.png)] (http://jrwiki.info)
+[!(http://jrwiki.pe.hu/wp-content/uploads/2016/05/logo.png)] (http://jrwiki.pe.hu)
 
 #Projeto em 3 camadas em linguagem C#
 
